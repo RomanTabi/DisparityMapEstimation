@@ -27,3 +27,4 @@
 *.exe
 *.out
 *.app
+./src/disparity_map_estimation
